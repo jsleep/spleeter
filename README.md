@@ -2,10 +2,10 @@
 
 [![CircleCI](https://circleci.com/gh/deezer/spleeter/tree/master.svg?style=shield)](https://circleci.com/gh/deezer/spleeter/tree/master) [![PyPI version](https://badge.fury.io/py/spleeter.svg)](https://badge.fury.io/py/spleeter) [![Conda](https://img.shields.io/conda/vn/conda-forge/spleeter)](https://anaconda.org/conda-forge/spleeter) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/spleeter) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deezer/spleeter/blob/master/spleeter.ipynb)
 
-## About
-
 # Fork for Spleeter.exe
-This is an attempt to make spleeter into an easily run executable for Windows and MacOS.
+This is an fork of Spleeter as an attempt to make Spleeter into an easily run executable for Windows and MacOS.
+
+## About
 
 **Spleeter** is the [Deezer](https://www.deezer.com/) source separation library with pretrained models
 written in [Python](https://www.python.org/) and uses [Tensorflow](https://tensorflow.org/). It makes it easy
